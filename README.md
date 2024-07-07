@@ -5,10 +5,11 @@ Aplikasi Diary Memo
 Praktikum Pemrograman Mobile
 Kelas A
 Kelompok 11 :
-- Habil Gymnastiar Abdul Matin
-- Irvan Rizki Fauzi
-- Alam Ruslam
-- M Galdiaz Nugraha
+- Habil Gymnastiar Abdul Matin (2106008)
+- M Galdiaz Nugraha (2106030)
+- Irvan Rizki Fauzi (2106124)
+- Alam Ruslam (2106139)
+
 
 ## Getting Started
 
