@@ -1,6 +1,14 @@
 # tb_prakmobile
 
-Aplikasi Diary Memo
+Aplikasi Diary Memo atau catatan,  yang simpan di hp anda.
+Diary Memo adalah aplikasi Flutter untuk manajemen memo harian. Aplikasi ini memungkinkan pengguna untuk menambahkan, mengedit, menghapus, dan mencari memo dengan mudah. Data disimpan secara lokal menggunakan SQLite.
+
+## Fitur Utama
+
+- **CRUD Operations**: Tambahkan, edit, dan hapus memo.
+- **Pencarian Memo**: Cari memo berdasarkan judul.
+- **Konfirmasi Aksi**: Konfirmasi sebelum menghapus atau mengubah data.
+- **Animasi yang Menarik**: Animasi transisi untuk tampilan memo.
 
 Praktikum Pemrograman Mobile
 Kelas A
