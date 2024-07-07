@@ -18,6 +18,12 @@ Kelompok 11 :
 - Irvan Rizki Fauzi (2106124)
 - Alam Ruslam (2106139)
 
+## Referensi TB
+Project dibuat dengan menggunakan referensi pada link yang dicantumkan berikut:
+https://youtu.be/jnkItI-0Fn0?si=ZxiBDE4pi9goQ_Vf
+
+Adapun perubahan pada project yang dibuat diantaranya mencakup penambahan "Fitur Search", "Perubahan UI", dan beberapa perubahan lainnya.
+
 
 ## Getting Started
 
