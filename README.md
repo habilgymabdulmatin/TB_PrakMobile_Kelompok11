@@ -1,6 +1,14 @@
 # tb_prakmobile
 
-A new Flutter project.
+Aplikasi Diary Memo
+
+Praktikum Pemrograman Mobile
+Kelas A
+Kelompok 11 :
+- Habil Gymnastiar Abdul Matin
+- Irvan Rizki Fauzi
+- Alam Ruslam
+- M Galdiaz Nugraha
 
 ## Getting Started
 
